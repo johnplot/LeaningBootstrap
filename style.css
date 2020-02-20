@@ -29,6 +29,10 @@
     max-width: 515px;
 }
 
+footer {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
 @media screen and (max-width: 479px) {
     .carousel-control-next-icon,
     .carousel-control-prev-icon {
